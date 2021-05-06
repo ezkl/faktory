@@ -1,2 +1,5 @@
 Dockerfile
 docker-compose.yml
+tmp
+templates.go
+packaging
